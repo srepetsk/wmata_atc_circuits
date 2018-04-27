@@ -18,7 +18,9 @@ The following partial dataset from WMATA includes four columns descriptive of th
 
 ## What is Automatic Train Control?
 
-WMATA has some good [documentation](https://www.wmata.com/business/procurement/solicitations/documents/RFI%2002202015%20DRAFT%20SOW%20SYSTEMS.pdf#page=7) online that goes into great detail about what ATC is
+WMATA has some good [documentation](https://www.wmata.com/business/procurement/solicitations/documents/RFI%2002202015%20DRAFT%20SOW%20SYSTEMS.pdf#page=7) online that goes into great detail about what ATC is.
+
+Greater Greater Washington similarly has a [quick primer](https://ggwash.org/view/4412/how-track-circuits-detect-and-protect-trains) about how ATC track circuits work within Metrorail to keep trains separated.
 
 ## Why are there no circuit IDs?
 
